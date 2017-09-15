@@ -1,0 +1,55 @@
+/* Styles go here */
+body{
+  margin: 0; 
+  width: 500px;
+}
+.IconDiv{
+  float:left;
+  height:42px;
+  width:100px;
+  padding-top: 4px;
+}
+.HeaderDiv{
+  float:left;
+  height:42px;
+  padding-top: 4px;
+  padding-left: 50px;
+}
+.Img{
+  height:42px;
+  width:42px;
+  margin-left:25px
+}
+.headerText{
+  margin-bottom: 0px;
+  margin-top: 8px; 
+  margin-left:20px;
+  color:white
+}
+.header{
+  height: 50px;
+  margin: 0;
+  Padding: 0;
+  background: #40a7c7;
+  margin-bottom: 1px;
+}
+.divRowContent{
+  border:1px solid black; 
+  margin-top:0;
+  margin-bottom:2px;
+  padding:4px;
+  display:block;
+}
+.linkRow{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.linkChangeButton{
+  margin-right:10px; 
+  margin-top:4px;
+}
+.alert{
+  margin: 0;
+  border-radius: 0;
+  padding:4px;
+}
