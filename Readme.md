@@ -21,3 +21,9 @@
 9. Now you can see open tabs in tab changer and switch between tabs easily.
 10. Enjoy!!!
 
+###Alternate Download
+####Download to google chrome from the below link.
+
+## Running Link on Google WebStore
+#### Tab Changer App
+* [Tab-Changer](https://chrome.google.com/webstore/detail/tab-changer/kdgbkbgkffgfhakohlmoppiahphmognn).
